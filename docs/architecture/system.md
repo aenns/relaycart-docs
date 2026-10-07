@@ -3,7 +3,7 @@
 Design revision: 4
 Checkpoint: Step 03B, section 3
 Date: 7 October 2026
-Status: proposed design for review; no application implementation or cloud deployment is claimed.
+Status: approved design baseline; no application implementation or cloud deployment is claimed.
 
 This is the initial system architecture, owned by relaycart-docs. Component-specific architecture and runbooks stay in their owning repositories; later versioned documentation aggregation publishes them together. The harness scope/architecture/configuration are recorded in portable-ai-harness at commits 96cc799, 40476cf and 99d47a1 respectively.
 
